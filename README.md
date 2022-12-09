@@ -1,2 +1,2 @@
 # small-project-1
-This project was done in order to create two tables, first is to contain the raw data derived from a CSV file and second is to display the queried result. The result then served as the basis for a checker, where users can input their invoice number to know their payment status
+This project was done in order to create two tables, first is to contain the raw data derived from a CSV file and second is to display the queried result. The result then served as the basis for a checker, where users can input their invoice number to know their payment status. The first part is to upload the CSV file to PostgreSQL database, the second part is to do sorting and analysis of the data, and the third part is the checker.
